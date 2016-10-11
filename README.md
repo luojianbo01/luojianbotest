@@ -1,2 +1,2 @@
 # luojianbotest
-test git
+test git 2.0
